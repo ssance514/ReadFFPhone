@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\daguang\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Coursera\MoCCAadamporter\ReadFFPhone\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-abd0d6bc046a31b6b2937d089a51a6fe4dd58081.jar" />
+    </item>
+
+</items>
